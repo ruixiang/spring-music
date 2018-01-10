@@ -1,9 +1,9 @@
 [
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Nirvana",
-        "title": "Nevermind",
-        "releaseYear": "1991",
+        "artist": "Hunter",
+        "title": "Welink",
+        "releaseYear": "2018",
         "genre": "Rock"
     },
     {
