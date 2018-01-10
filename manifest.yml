@@ -1,6 +1,8 @@
 ---
 applications:
 - name: spring-music
+  routes:
+  - route: example.com
   memory: 1G
   path: build/libs/spring-music.jar
 
