@@ -3,4 +3,6 @@ applications:
 - name: spring-music
   hosts: spring-music
   memory: 1G
+  service:
+  - MysqlTest
   path: build/libs/spring-music.jar
