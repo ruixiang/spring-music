@@ -9,6 +9,7 @@ import javax.persistence.Id;
 
 @Entity
 public class Album {
+
     @Id
     @Column(length=40)
     @GeneratedValue(generator="randomId")
