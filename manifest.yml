@@ -2,6 +2,4 @@
 applications:
 - name: spring-demo
   memory: 1G
-#  service:
-#  - MysqlTest
   path: build/libs/spring-music.jar
