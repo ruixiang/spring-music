@@ -18,7 +18,7 @@
         "artist": "Marvin Gaye",
         "title": "What's Going On",
         "releaseYear": "1971",
-        "genre": "Rock"
+        "genre": "R"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
