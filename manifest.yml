@@ -1,7 +1,6 @@
 ---
 applications:
 - name: spring-demo
-  hosts: spring-demo
   memory: 1G
 #  service:
 #  - MysqlTest
